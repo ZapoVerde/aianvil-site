@@ -88,3 +88,8 @@ Use these in Google Auth Platform → Branding:
 - Application terms of service link: `https://aianvil.app/terms/`
 - Authorized domain: `aianvil.app`
 - App logo: leave blank (uploading a logo can trigger verification)
+- User support email: required by Google Cloud and shown on the consent screen;
+  it is not published anywhere on this site. Use a real, monitored address.
+
+The site intentionally publishes no personal name and no email address. Contact
+for household members is handled through the private channel they already use.
